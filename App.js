@@ -71,7 +71,7 @@ const App = () => {
     setLoaderVisibility("false");
     Toast.show({
       type: 'success',
-      text1: 'Tu texto ha sido copiado al portapapeles',
+      text1: '¡Tu texto ha sido copiado al portapapeles!',
       text2: text
     });
     Clipboard.setString(text);
