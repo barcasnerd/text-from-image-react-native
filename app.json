@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "delete",
-    "slug": "delete",
+    "name": "TextNerd",
+    "slug": "TextNerd",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon2.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,10 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/icon2.png",
+        "backgroundColor": "#000000"
       },
-      "package": "com.barcasnerd.delete"
+      "package": "com.barcasnerd.texnerd"
     },
     "web": {
       "favicon": "./assets/favicon.png"
