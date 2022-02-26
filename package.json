@@ -10,11 +10,22 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-clipboard/clipboard": "^1.8.5",
+    "@react-native-community/clipboard": "^1.5.1",
+    "anonymous-files": "^1.0.1",
     "expo": "~44.0.0",
+    "expo-clipboard": "~2.1.0",
+    "expo-constants": "~13.0.1",
+    "expo-image-picker": "~12.0.1",
+    "expo-sharing": "~10.1.0",
     "expo-status-bar": "~1.2.0",
+    "expo-updates": "~0.11.6",
+    "npkill": "^0.8.3",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-loading-spinner-overlay": "^3.0.0",
+    "react-native-toast-message": "^2.1.1",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
